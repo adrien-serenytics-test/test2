@@ -5,6 +5,6 @@ print('Hello, Serenytics!')
 str = 'ca c'est un jolie diff !!'
 pas mieux!!!
 
-fdsfdfsfdsfsfsfs
+fdsfdfsfdsfsfsfs nouveau test
 lfkdkljflks
 yes !!!
